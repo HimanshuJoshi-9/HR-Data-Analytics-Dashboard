@@ -33,9 +33,7 @@ The Dashboard provides Presence Insights of the employees.
 *	Presence % by Date
 *	WFH % by Date
 *	SL % by Date
-
-
-
+![Employee Attendence Dashboard HR](https://user-images.githubusercontent.com/61973220/227772181-4be6a08e-7cd0-4a58-9d74-09084769236e.jpg)
 
 ### Insights
 * HR can manage multiple things after visualise the working preference of individual employee in numbers:
