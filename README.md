@@ -5,14 +5,14 @@
 ## Tools Used
 Excel, PowerBI, Power Query, DAX Query
 
-## Cleaning and Analyzing using Power Query
+## Cleaning and Analyzing the Data
 * Imported all 3 months of excel data to reshape it.
 *	Merged data in sequence order to access the individual employee attendance.
 *	Applied all necessary cleaning steps, such as removing duplicates, renaming columns, and changing data types.
 *	Created a parameter to select the desired data based on a specific condition.
 *	Loaded and Applied the cleaned data into Power BI.
 
-## Exploring and Manipulate Some Data Using DAX Query
+## Exploring and Manipulate Some Data
 *	With DAX Query, we can effectively manipulate and analyze the data to provide insights for visualization and identify areas for improvement for HR.
 *	Create Measures and columns Using DAX functions such as count, sum, calculate, if, switch, divide, and Date-time functions for exploring some clean data to improve dashboard KPI in PowerBI.
 
